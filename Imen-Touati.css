@@ -1,0 +1,65 @@
+h1 {
+    color: #c197d2;
+    text-align: center;
+    font-size: 40px;
+    font-weight:bold ;
+    font-family: arial, sans-serif;
+    padding-top: 50px;
+}
+.ACCROCHE{
+    color:#6a45ef;
+    text-align: center;
+    margin-bottom:20px;
+    padding-top:30px;
+    font-size: 30px;
+}
+
+
+
+.presentation-table{
+    h2{
+        color: #c197d2;
+        align-items: center;
+        font-size: 30px;
+    }
+    .PORTRAIT img{
+        width: 500px;         
+        object-fit: cover;        
+        border-radius: 50%;      
+        border: 4px solid #c197d2;  
+        box-shadow: 0 4px 8px #c197d2(0,0,0,0.1);
+        background-color: #c197d2;
+        margin-bottom: 30px;
+        padding-left: 50px;
+        
+    }
+
+    .PARCOURS{
+        padding-right: 50px;
+        font-size: 20px;
+        
+    }
+
+    .AUJOURDHUI{
+        padding-left: 10px;
+        padding-right: 20px;
+        font-size: 20px;
+    }
+
+    .OBJECTIFS{
+        padding-left: 80px;
+        font-size: 20px;
+    }
+
+    .DEMAIN{
+        padding-left: 90px;
+        font-size: 20px;
+           
+    } 
+    
+    .ET-SI-NON{
+        padding-left:50px ;
+        font-size: 20px;
+    }
+
+}
